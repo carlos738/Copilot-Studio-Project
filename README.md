@@ -76,5 +76,7 @@ O desafio consiste em construir um Copiloto do zero, estruturando tópicos, gati
 - [Microsoft Power Platform](https://learn.microsoft.com/pt-br/power-platform/)
 
 ---
+## 🛡️ Direitos Autorais
 
-> Projeto criado como desafio pessoal para explorar o potencial da criação de agentes conversacionais com Microsoft Copilot Studio.
+Este projeto foi desenvolvido como iniciativa pessoal com base em documentação pública da Microsoft. Todo o conteúdo foi criado de forma original e pode ser reutilizado ou adaptado com os devidos créditos.
+
