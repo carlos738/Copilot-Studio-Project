@@ -76,7 +76,10 @@ O desafio consiste em construir um Copiloto do zero, estruturando tópicos, gati
 - [Microsoft Power Platform](https://learn.microsoft.com/pt-br/power-platform/)
 
 ---
-## 🛡️ Direitos Autorais
+## 🎓 Propósito Educacional
 
-Este projeto foi desenvolvido como iniciativa pessoal com base em documentação pública da Microsoft. Todo o conteúdo foi criado de forma original e pode ser reutilizado ou adaptado com os devidos créditos.
+Este projeto foi desenvolvido como parte de estudos e atividades práticas de um curso sobre criação de agentes conversacionais com o Microsoft Copilot Studio. O objetivo é explorar os recursos da plataforma, aprender sobre fluxos de conversa personalizados e aplicar conceitos de automação e inteligência artificial em um ambiente real.
+
+Todo o conteúdo aqui apresentado é original e criado com fins didáticos. Sinta-se à vontade para utilizar como referência ou base para seus próprios projetos.
+
 
